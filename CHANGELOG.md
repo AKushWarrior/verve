@@ -1,6 +1,6 @@
 ## [0.3.2] - [0.3.2+3] (Published 12/06/19)
 * Even more bug and consistency fixes
-* Better theming defaults
+* Bettered theming defaults
 * Updated README to reflect new changes
 * Package is mostly stable!
 
